@@ -1,0 +1,15 @@
+C:\Users\SID\AsyncFilecopy\src\asyncFilecopy\bin\Debug\net6.0\asyncFilecopy.exe
+C:\Users\SID\AsyncFilecopy\src\asyncFilecopy\bin\Debug\net6.0\asyncFilecopy.deps.json
+C:\Users\SID\AsyncFilecopy\src\asyncFilecopy\bin\Debug\net6.0\asyncFilecopy.runtimeconfig.json
+C:\Users\SID\AsyncFilecopy\src\asyncFilecopy\bin\Debug\net6.0\asyncFilecopy.dll
+C:\Users\SID\AsyncFilecopy\src\asyncFilecopy\bin\Debug\net6.0\asyncFilecopy.pdb
+C:\Users\SID\AsyncFilecopy\src\asyncFilecopy\obj\Debug\net6.0\asyncFilecopy.csproj.AssemblyReference.cache
+C:\Users\SID\AsyncFilecopy\src\asyncFilecopy\obj\Debug\net6.0\asyncFilecopy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SID\AsyncFilecopy\src\asyncFilecopy\obj\Debug\net6.0\asyncFilecopy.AssemblyInfoInputs.cache
+C:\Users\SID\AsyncFilecopy\src\asyncFilecopy\obj\Debug\net6.0\asyncFilecopy.AssemblyInfo.cs
+C:\Users\SID\AsyncFilecopy\src\asyncFilecopy\obj\Debug\net6.0\asyncFilecopy.csproj.CoreCompileInputs.cache
+C:\Users\SID\AsyncFilecopy\src\asyncFilecopy\obj\Debug\net6.0\asyncFilecopy.dll
+C:\Users\SID\AsyncFilecopy\src\asyncFilecopy\obj\Debug\net6.0\refint\asyncFilecopy.dll
+C:\Users\SID\AsyncFilecopy\src\asyncFilecopy\obj\Debug\net6.0\asyncFilecopy.pdb
+C:\Users\SID\AsyncFilecopy\src\asyncFilecopy\obj\Debug\net6.0\asyncFilecopy.genruntimeconfig.cache
+C:\Users\SID\AsyncFilecopy\src\asyncFilecopy\obj\Debug\net6.0\ref\asyncFilecopy.dll

@@ -1,0 +1,6 @@
+C# has a language-level asynchronous programming model, which allows for easily writing asynchronous code 
+without having to juggle callbacks or conform to a library that supports asynchrony. 
+It follows what is known as the Task-based Asynchronous Pattern (TAP).
+
+For I/O-bound code, you await an operation that returns a Task or Task<T> inside of an async method.
+For CPU-bound code, you await an operation that is started on a background thread with the Task.Run method.
